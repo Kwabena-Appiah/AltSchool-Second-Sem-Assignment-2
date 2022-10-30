@@ -7,7 +7,7 @@ export default function () {
     <><NavBar/>
       <div className="redirect nouser">
         <div>
-          <p> No tech buddy found</p>
+          <p> No Frendzy found</p>
           <Link to="/users">go back</Link>
         </div>
       </div>

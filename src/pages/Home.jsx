@@ -8,10 +8,10 @@ export default function Home() {
       <NavBar />
       <div className="home">
         <div className="text-sect">
-          <p className="hd"> IBuddy a Community for Developer</p>
-          <p className="connect">Come together</p>
+          <p className="hd"> Frendzy Community for Developers</p>
+          <p className="connect">Team Work</p>
           <p className="find">
-            Find a tech buddy in your community to connect and collaborate
+            Find a frendzy to connect and collaborate
           </p>
           <Link to="/users" className="connect-btn">
             connect now
@@ -21,31 +21,25 @@ export default function Home() {
 
       <div className="ssb">
         <div className="sub-sect">
-          <h2>find your tech buddy and grow up your skill</h2>
+          <h2>find a Frendzy and develop your skill</h2>
           <img
-            src="https://media.istockphoto.com/photos/portrait-of-young-latin-marketing-specialist-in-glasses-working-on-picture-id1346563227?k=20&m=1346563227&s=612x612&w=0&h=xWsNFOIL2y079QsfrZb8H9Y7wCXKj9niswUnZpERokI="
+            src="https://media.istockphoto.com/photos/an-africanamerican-guy-using-laptop-in-the-office-picture-id1254062265"
             alt=""
             className="afro"
           />
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum nihil
-            recusandae debitis temporibus fuga voluptatem odit quas corrupti
-            quibusdam, eum ipsam perspiciatis cumque, eaque accusantium
-            assumenda itaque ut repudiandae fugiat.
+            it is great to be part of a tremendous family that seeks the best for each other.
           </p>
         </div>
         <div className="sub-sect">
-          <h2>Share your experience with your buddy and learn more</h2>
+          <h2>Growing together</h2>
           <img
             src="./assets/dvg.jpg"
             alt="coders discussing about source code compiling discovers errors asks rest team explanations front multiple screens running algorithms software developers doing teamwork"
             className="dvg"
           />
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum nihil
-            recusandae debitis temporibus fuga voluptatem odit quas corrupti
-            quibusdam, eum ipsam perspiciatis cumque, eaque accusantium
-            assumenda itaque ut repudiandae fugiat.
+           Be  part of this great family and be the best .
           </p>
         </div>
       </div>

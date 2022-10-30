@@ -3,15 +3,14 @@ import React from "react";
 export default function Faq() {
   return (
     <div className="faq">
-      <p className="title">Why you need IBuddy?</p>
+      <p className="title">Why you need Frendzy?</p>
       <ul>
         <li className="left">
-          Eliminate delays to find or test a solution or allow for a better
-          solution,
+          provides the best growth opportunity for any developer,
         </li>
 
         <li className="left">
-          Helps to effectively expanding the skill set and knowledge
+          Promotes easy access to consumer base
         </li>
         <li className="left">
           Having another pair of eyes on your code results to fewer defects

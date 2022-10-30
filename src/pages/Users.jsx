@@ -63,7 +63,7 @@ export default function Users() {
   };
   useEffect(() => {
     if (users === "") {
-      na("/nobuddy");
+      na("/nofrendzy");
     }
   }, [users]);
  

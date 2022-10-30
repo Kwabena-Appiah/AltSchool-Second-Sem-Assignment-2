@@ -6,7 +6,7 @@ function NavBar() {
   return (
     <>
       <header>
-        <div className="logo">IBuddy</div>
+        <div className="logo">FRENDZY</div>
         <button
           onClick={() => (!isShown ? setIsShown(true) : setIsShown(false))}
           aria-label={!isShown ? "open menu" : "close menu"}
@@ -22,7 +22,7 @@ function NavBar() {
             </li>
             <li className="nav-link">
               <NavLink to="/users" className="link">
-                techbuddy
+                F
               </NavLink>
             </li>
         
