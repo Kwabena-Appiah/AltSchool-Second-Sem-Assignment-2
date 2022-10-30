@@ -1,6 +1,6 @@
 # semestertwo-secondassignment
 
-# Frendzone
+# IBuddy
 # Altschool Frontend Engineering- Project
 
 This is Altschool second capstone project in second semester for Frontend school of engineering.
@@ -36,7 +36,7 @@ Task requirements :
 ![nestedroutetwo](https://user-images.githubusercontent.com/96787210/198872819-e2c0aa80-9e28-49df-80b6-b7cb00e29215.jpg)
 ### Links
 
-- Solution URL:(https://github.com/kwbena-appiah/AltSchool-Second-Sem-Assignment-2)
+- Solution URL:(https://github.com/ibimina/semestertwo-secondassignment)
 - Live Site URL: (https://ibimina-altschool.netlify.app)
 
 ### Built with
@@ -48,10 +48,10 @@ Task requirements :
 
 ## Author
 
-- Godfred Ofosu-Appiah
-- Linkedin -[Godfred Ofosu-Appiah](https://www.linkedin.com/in/godfred-ofosu-appiah)
-- Twitter -[@G_ofosuappiah](https://www.twitter.com/godfredofosu-appiah)
-
+- Ibimina Hart
+- Linkedin -[ibimina hart](https://www.linkedin.com/in/ibimina-hart)
+- Twitter -[@ibiminaaH](https://www.twitter.com/ibiminaaH)
+- Frontend Mentor -[@ibimina](https://www.frontendmentor.io/profile/ibimina)
 
 
 
