@@ -27,14 +27,7 @@ Task requirements :
 6. Show prev,next and navigation to individual pages also implement accessibiity and disabled state
 7. Implement api loading state
 
-### Screenshot
 
-![home](https://user-images.githubusercontent.com/96787210/198872814-43ff9396-4b94-4578-b348-0c3600de41d1.jpg)
-![users](https://user-images.githubusercontent.com/96787210/198872822-d5c18e73-201f-4871-9b63-3e5c0901ca09.jpg)
-![singleuser](https://user-images.githubusercontent.com/96787210/198872820-06b97457-65c0-492a-8541-2267b111412a.jpg)
-![nestedrouteone](https://user-images.githubusercontent.com/96787210/198872817-97e86d0a-9512-4c28-80b8-94c009822cd4.jpg)
-![nestedroutetwo](https://user-images.githubusercontent.com/96787210/198872819-e2c0aa80-9e28-49df-80b6-b7cb00e29215.jpg)
-### Links
 
 - Solution URL:(https://github.com/Kwabena-Appiah/AltSchool-Second-Sem-Assignment-2)
 - Live Site URL: (https://frendzy.netlify.app/)
